@@ -1,7 +1,7 @@
 # Dotfiles
 Configuration files for my system 
 
-## i3Configs 
+## i3Config
 
 Conatains all my system settings for i3 
 
