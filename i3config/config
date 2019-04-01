@@ -240,3 +240,7 @@ bindsym Print exec scrot -u '%Y%m%d_%H%M%S.png' -e 'mv $f ~/Pictures/shots/'
 # Print screen entire view
 bindsym $mod+Print exec scrot '%Y%m%d_%Ho%M%S.png' -e 'mv $f ~/Pictures/shots/'
 
+
+# Wifi applet 
+exec_always nm-applet
+
