@@ -244,3 +244,5 @@ bindsym $mod+Print exec scrot '%Y%m%d_%Ho%M%S.png' -e 'mv $f ~/Pictures/shots/'
 # Wifi applet 
 exec_always nm-applet
 
+# Cerebro launcher
+exec_always cerebro 
